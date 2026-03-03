@@ -1,5 +1,8 @@
 # test-projector
 
+
+<img width="660" height="663" alt="Screenshot 2026-03-03 at 3 53 11 PM" src="https://github.com/user-attachments/assets/69299745-f25f-4d59-9b24-4b4669b8686d" />
+
 A small “camera → LLM → projector” prototype:
 
 - Shows a live camera feed on your main display.
@@ -33,10 +36,6 @@ Here’s an imagine of testing it, with me holding up a post card and seeing wha
 Here is an image of the generated output that was projected in the image above:
 
 <img width="999" height="665" alt="Screenshot 2026-03-03 at 3 52 24 PM" src="https://github.com/user-attachments/assets/ac8c371f-be70-437d-9c07-ca852a0ecb85" />
-
-Another example of generated output:
-
-<img width="660" height="663" alt="Screenshot 2026-03-03 at 3 53 11 PM" src="https://github.com/user-attachments/assets/69299745-f25f-4d59-9b24-4b4669b8686d" />
 
 
 ---
