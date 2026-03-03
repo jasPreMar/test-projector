@@ -1,9 +1,9 @@
 # test-projector
 
-
-<img width="660" height="663" alt="Screenshot 2026-03-03 at 3 53 11 PM" src="https://github.com/user-attachments/assets/69299745-f25f-4d59-9b24-4b4669b8686d" />
-
 A small “camera → LLM → projector” prototype:
+
+
+<img width="413" height="353" alt="Screenshot 2026-03-03 at 3 57 06 PM" src="https://github.com/user-attachments/assets/46028668-f4dc-4709-9933-8424b5d332d8" />
 
 - Shows a live camera feed on your main display.
 - Shows a second window on a projector that can be:
@@ -23,7 +23,8 @@ This repo is currently centered around a single script: `camera_test.py`. :conte
 - Captures a frame on demand, encodes it to base64 JPEG, calls `client.responses.create(...)` with model `gpt-4.1-mini`, and reads `response.output_text`. :contentReference[oaicite:4]{index=4}
 - Renders the response text in large type with line wrapping onto the projector window. :contentReference[oaicite:5]{index=5}
 
-<img width="413" height="353" alt="Screenshot 2026-03-03 at 3 57 06 PM" src="https://github.com/user-attachments/assets/46028668-f4dc-4709-9933-8424b5d332d8" />
+
+<img width="660" height="663" alt="Screenshot 2026-03-03 at 3 53 11 PM" src="https://github.com/user-attachments/assets/69299745-f25f-4d59-9b24-4b4669b8686d" />
 
 ---
 
