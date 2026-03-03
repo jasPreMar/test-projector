@@ -26,13 +26,16 @@ This repo is currently centered around a single script: `camera_test.py`. :conte
 
 ## Demo
 
-Here’s an imagine if testing it, with me holding up a post card and seeing what it would do. 
+Here’s an imagine of testing it, with me holding up a post card and seeing what it would do: 
+
 <img width="843" height="659" alt="Screenshot 2026-03-03 at 3 49 56 PM" src="https://github.com/user-attachments/assets/d29e63ba-5b2e-4771-b559-74b48f540d03" />
 
-Here is an image of the generated output that was projected in the image above.
+Here is an image of the generated output that was projected in the image above:
+
 <img width="999" height="665" alt="Screenshot 2026-03-03 at 3 52 24 PM" src="https://github.com/user-attachments/assets/ac8c371f-be70-437d-9c07-ca852a0ecb85" />
 
 Another example of generated output:
+
 <img width="660" height="663" alt="Screenshot 2026-03-03 at 3 53 11 PM" src="https://github.com/user-attachments/assets/69299745-f25f-4d59-9b24-4b4669b8686d" />
 
 
